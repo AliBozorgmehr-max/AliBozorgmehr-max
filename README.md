@@ -8,13 +8,14 @@
 
 ---
 
-### 🧰 Tools & Languages:
+### 🧰 Tools & Languages & Skills:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-black?style=flat-square&logo=burpsuite)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-black?style=flat-square&logo=wireshark)
 ![Nmap](https://img.shields.io/badge/-Nmap-black?style=flat-square&logo=nmap)
 ![SQLmap](https://img.shields.io/badge/-SQLmap-black?style=flat-square)
+![OWASP Top 10](https://img.shields.io/badge/-OWASP%20Top%2010-black?style=flat-square)
 
 
 
