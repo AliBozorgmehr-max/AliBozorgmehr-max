@@ -10,7 +10,7 @@ Focused on Security Monitoring, Log Analysis, Incident Response and Web Applicat
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **Security Monitoring, Web Pentesting & SOC Automation**
+- 🔭 Currently working on **Security Monitoring, Web Pentesting & SOC**
 - 🌱 Currently learning **Artificial Intelligence in Cybersecurity**
 - 🛡 Interested in **Detection Engineering, Incident Response, and Bug Bounty**
 - 💬 Ask me about **Security, Linux, Pentesting, Bug Bounty**
