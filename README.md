@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="[/mnt/data/image_gen_86536573-132a-4615-a7d3-a9298c14df0f_0.png"](https://storage.gapgpt.app/media/code_interpreter/18658bcc-9dfc-45ff-bdeb-80a6d818edca/image_gen_86536573-132a-4615-a7d3-a9298c14df0f_0.png%22) alt="GitHub Banner" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Ali Bozorgmehr</h1>
 <h3 align="center">Junior SOC Analyst | Web Pentester | Cybersecurity Enthusiast</h3>
