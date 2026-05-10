@@ -16,6 +16,10 @@
 ![Nmap](https://img.shields.io/badge/-Nmap-black?style=flat-square&logo=nmap)
 ![SQLmap](https://img.shields.io/badge/-SQLmap-black?style=flat-square)
 ![OWASP Top 10](https://img.shields.io/badge/-OWASP%20Top%2010-black?style=flat-square)
+![Splunk](https://img.shields.io/badge/-Splunk-black?style=flat-square&logo=splunk)
+![Sysmon](https://img.shields.io/badge/-Sysmon-black?style=flat-square&logo=windows)
+![FortiGate](https://img.shields.io/badge/-FortiGate-black?style=flat-square&logo=fortinet)
+![Log%20Analysis](https://img.shields.io/badge/-Log%20Analysis-black?style=flat-square&logo=datadog)
 
 
 
