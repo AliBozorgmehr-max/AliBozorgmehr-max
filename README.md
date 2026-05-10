@@ -1,14 +1,39 @@
-<h1 align="center">Hi 👋, I'm Ali Bozorgmehr</h1>
-<h3 align="center">Cybersecurity Specialist | Ethical Hacker | Bug Hunter</h3>
+<p align="center">
+  <img src="[/mnt/data/image_gen_86536573-132a-4615-a7d3-a9298c14df0f_0.png"](https://storage.gapgpt.app/media/code_interpreter/18658bcc-9dfc-45ff-bdeb-80a6d818edca/image_gen_86536573-132a-4615-a7d3-a9298c14df0f_0.png%22) alt="GitHub Banner" />
+</p>
 
-- 🔭 Currently working on: Web security tools, penetration testing & SOC automation  
-- 🌱 Currently learning: Artificial Intelligence in Cybersecurity  
-- 💬 Ask me about: Python, Linux, Bug Bounty, Penetration Testing  
-- 📫 Contact: bozorgmehrali516@gmail.com  
+<h1 align="center">Hi 👋, I'm Ali Bozorgmehr</h1>
+<h3 align="center">Junior SOC Analyst | Web Pentester | Cybersecurity Enthusiast</h3>
+
+<p align="center">
+Focused on Security Monitoring, Log Analysis, Incident Response and Web Application Security.
+</p>
 
 ---
 
-### 🧰 Tools & Languages & Skills:
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **Security Monitoring, Web Pentesting & SOC Automation**
+- 🌱 Currently learning **Artificial Intelligence in Cybersecurity**
+- 🛡 Interested in **Detection Engineering, Incident Response, and Bug Bounty**
+- 💬 Ask me about **Python, Linux, Pentesting, Bug Bounty**
+- 📫 Reach me at: **bozorgmehrali516@gmail.com**
+
+---
+
+## 🧠 Professional Summary
+
+I am a **Junior SOC Analyst** with hands‑on experience in **log analysis, security monitoring, and basic incident investigation**.  
+I work with tools such as **Splunk, Sysmon, and FortiGate** to analyze security events and detect suspicious activities.
+
+Alongside defensive security, I actively practice **web application penetration testing and bug bounty**, focusing on vulnerabilities from the **OWASP Top 10**.
+
+My goal is to grow into a highly skilled **Security Engineer capable of both offensive and defensive security operations**.
+
+---
+
+## 🛡 Security Skills & Technologies
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-black?style=flat-square&logo=burpsuite)
@@ -19,14 +44,20 @@
 ![Splunk](https://img.shields.io/badge/-Splunk-black?style=flat-square&logo=splunk)
 ![Sysmon](https://img.shields.io/badge/-Sysmon-black?style=flat-square&logo=windows)
 ![FortiGate](https://img.shields.io/badge/-FortiGate-black?style=flat-square&logo=fortinet)
-![Log%20Analysis](https://img.shields.io/badge/-Log%20Analysis-black?style=flat-square&logo=datadog)
-
-
+![Log Analysis](https://img.shields.io/badge/-Log%20Analysis-black?style=flat-square&logo=datadog)
 
 ---
 
-### 📊 GitHub Stats
+
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliBozorgmehr-max&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliBozorgmehr-max&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=AliBozorgmehr-max&show_icons=true&theme=github_dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AliBozorgmehr-max&theme=dark"/>
 </p>
+
+---
+
+
+⭐ Always learning, building, and improving in **Cybersecurity**
