@@ -13,7 +13,7 @@ Focused on Security Monitoring, Log Analysis, Incident Response and Web Applicat
 - 🔭 Currently working on **Security Monitoring, Web Pentesting & SOC Automation**
 - 🌱 Currently learning **Artificial Intelligence in Cybersecurity**
 - 🛡 Interested in **Detection Engineering, Incident Response, and Bug Bounty**
-- 💬 Ask me about **Python, Linux, Pentesting, Bug Bounty**
+- 💬 Ask me about **Security, Linux, Pentesting, Bug Bounty**
 - 📫 Reach me at: **bozorgmehrali516@gmail.com**
 
 ---
@@ -42,6 +42,9 @@ My goal is to grow into a highly skilled **Security Engineer capable of both off
 ![Sysmon](https://img.shields.io/badge/-Sysmon-black?style=flat-square&logo=windows)
 ![FortiGate](https://img.shields.io/badge/-FortiGate-black?style=flat-square&logo=fortinet)
 ![Log Analysis](https://img.shields.io/badge/-Log%20Analysis-black?style=flat-square&logo=datadog)
+![Network+](https://img.shields.io/badge/-Network%2B-black?style=flat-square&logo=comptia)
+![Security+](https://img.shields.io/badge/-Security%2B-black?style=flat-square&logo=comptia)
+![SANS SEC401](https://img.shields.io/badge/-SANS%20SEC401-black?style=flat-square&logo=googleclassroom)
 
 ---
 
